@@ -3,3 +3,6 @@ alma
 funkció2
 
 int maain
+
+
+funció 4
