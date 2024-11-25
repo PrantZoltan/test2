@@ -5,6 +5,9 @@ funkció2
 int maain
 
 
+<<<<<<< HEAD
 néhány hiba javtása 
 
-funció 4
+=======
+funció 5
+>>>>>>> test2_uj_funkcio2
