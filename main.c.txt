@@ -5,4 +5,4 @@ funkció2
 int maain
 
 
-funció 4
+funció 5
